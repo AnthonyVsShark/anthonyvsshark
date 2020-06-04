@@ -1,4 +1,4 @@
-Hey there, I'm a designer [@GitHub](https://github.com}. Working on social features for the developer community.
+Hey there, I'm a designer at [GitHub](https://github.com}. Working on social features for the developer community.
 
 I'm all ears for anyone with ideas for new features or ways to improve Github.
 You can reach out to me on [Twitter](https://twitter.com/anthny) whenever you'd like.
