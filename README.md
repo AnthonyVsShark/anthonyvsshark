@@ -1,1 +1,8 @@
-![black lives matter • abolish the police](https://github.com/AnthonyVsShark/anthonyvsshark/blob/master/new%20header_.png?raw=true)
+<p align="center">
+  <samp>
+    :wave: Hi! I work as a designer on this here website.
+    <br>Previously Airbnb, Slack, Discord, Ueno, Twitter and Foursquare
+    <br>Father to Eunhae
+    <br><br>I'm terminally on <a href="https://twitter.com/anthny">Twitter</a>
+  </samp>
+</p>
